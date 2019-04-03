@@ -1988,51 +1988,6 @@ body {
     font-size: 40px !important;
   }
 }
-.cid-rmBSdXYLha {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rmBSdXYLha .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rmBSdXYLha .formoid {
-  margin: auto;
-}
-.cid-rmBSdXYLha .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-.cid-rmBSdXYLha .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  margin: 0 !important;
-}
-.cid-rmBSdXYLha a:not([href]):not([tabindex]) {
-  color: #fff;
-}
-.cid-rmBSdXYLha a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-@media (max-width: 768px) {
-  .cid-rmBSdXYLha .mbr-form .row {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-rmBSdXYLha .form-group,
-  .cid-rmBSdXYLha .input-group-btn,
-  .cid-rmBSdXYLha .input-group-btn .btn {
-    max-width: 300px;
-    width: 100%;
-  }
-}
-@media (min-width: 769px) {
-  .cid-rmBSdXYLha .mbr-form .row > * {
-    padding: 0 0.5rem;
-  }
-}
 .cid-rmBSfdFc4e {
   padding-top: 90px;
   padding-bottom: 90px;
