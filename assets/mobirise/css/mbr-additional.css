@@ -2523,6 +2523,15 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rmCfPwylgK {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #e4d295, #ff3366);
+}
+.cid-rmCfPwylgK .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
 .cid-rmC6HeIIow {
   padding-top: 105px;
   padding-bottom: 60px;
